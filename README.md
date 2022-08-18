@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @w1za
+- 👋 Hi, I’m shaurya 
 - 👀 I’m interested in coding editing and sort of graphic illustration 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development and cpp with dsa 
 - 💞️ I’m looking to collaborate on some concept art collaborative project or some cgi projects  
 - 📫 you can reach me through my e-mail address - pshaurya072@gmail.com
 
